@@ -24,3 +24,92 @@ Last login: Mon Sep 23 14:38:26 on ttys003
 (base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git commit -m "Add reports directory"
 (base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % nano commands.txt
 
+UPDATES BELOW!
+Last login: Mon Sep 23 14:38:26 on ttys003
+(base) alixmorales@Alixs-MacBook-Air my_project % git clone https://github.com/AlixMorales/qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air my_project % tree
+(base) alixmorales@Alixs-MacBook-Air my_project % cd qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % touch commands.txt
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git checkout -b feature-update
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % mkdir reports
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % touch summary.md
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % rm summary.md
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd reports
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % touch summary.md
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % echo "This document provides a summary of the project updates" >> summary.md
+(base) alixmorales@Alixs-MacBook-Air reports % cat summary.md
+(base) alixmorales@Alixs-MacBook-Air reports % git add reports
+(base) alixmorales@Alixs-MacBook-Air reports % cd ..
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git add reports
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git log
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git commit -m "Add reports directory"
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % nano commands.txt
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd reports      
+(base) alixmorales@Alixs-MacBook-Air reports % touch {file1, file2, file3}.txt
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % rm {file1,
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % rm file2,
+(base) alixmorales@Alixs-MacBook-Air reports % rm file3}.txt
+(base) alixmorales@Alixs-MacBook-Air reports % touch { file1 , file2 , file3 }.txt
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % rm , 
+(base) alixmorales@Alixs-MacBook-Air reports % rm file2 file3
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % rm file1 { }.txt
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % touch file1.txt
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % touch file2.txt
+(base) alixmorales@Alixs-MacBook-Air reports % touch file3.txt
+(base) alixmorales@Alixs-MacBook-Air reports % ls
+(base) alixmorales@Alixs-MacBook-Air reports % cd ..
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % mv ./data/raw-data.csv 
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd scripts
+(base) alixmorales@Alixs-MacBook-Air scripts % mkdir backup
+(base) alixmorales@Alixs-MacBook-Air scripts % ls
+(base) alixmorales@Alixs-MacBook-Air scripts % cp *.py ./backup
+(base) alixmorales@Alixs-MacBook-Air scripts % tree
+(base) alixmorales@Alixs-MacBook-Air scripts % cd ..
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % rm docs/documentation.md
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd ..   
+(base) alixmorales@Alixs-MacBook-Air my_project % git add qtm-quiz01
+(base) alixmorales@Alixs-MacBook-Air my_project % tree
+(base) alixmorales@Alixs-MacBook-Air my_project % git add qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air my_project % cd qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd ..
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % git add qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % git add qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % ls
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % cd qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % ls
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git add qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cd ..
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % git add qtm350-quiz01
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % ls -a
+(base) alixmorales@Alixs-MacBook-Air QTM350Quiz1 % cd qtm350-quiz01 
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % ls -a
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git add .
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git commit -m "Update project files"
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % touch .gitignore
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % echo "temp/" >> .gitignore
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cat .gitignore
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % echo "dataset0?.csv" >> .gitignore
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % cat .gitignore
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git add .gitignore | git commit -m 
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git log
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git checkout main  
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % git merge feature-update
+(base) alixmorales@Alixs-MacBook-Air qtm350-quiz01 % tree
+
